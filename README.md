@@ -1,1 +1,1 @@
-this is a collection if proofs and specifications for the sel4 kernel
+this is a collection of proofs and specifications for the sel4 kernel
